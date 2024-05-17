@@ -212,7 +212,7 @@ img = tf.image.resize(img,(130,130))
 img=img.numpy()
 pred=bool(model.predict(img.reshape(1,130,130,3))<0.5)
 
-print("ABISHAI 212223240002")
+print("YUVARAJ B  212222230182")
 plt.title("Model prediction: "+("Parasitized" if pred  else "Uninfected")+"\nActual Value: "+str(dir_))
 plt.axis("off")
 plt.imshow(img)
