@@ -219,9 +219,9 @@ plt.imshow(img)
 plt.show()
 
 ```
-### Name: ABISHAI K C
+### Name: YUVARAJ B
 
-### Register Number: 212223240002
+### Register Number: 212222230182
 
 ## OUTPUT
 
